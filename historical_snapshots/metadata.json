@@ -1,0 +1,41 @@
+[
+  {
+    "origin_script": "community-dashboard-backend/generate-historical-snapshots.py",
+    "outfile": "community-dashboard-backend/historical_snapshots/full_snapshot_f6.json",
+    "datestamp": "20220629",
+    "data_sources": {
+      "templateData": "https://raw.githubusercontent.com/Project-Catalyst/feedback-challenge-tool-backend/master/data/f6/proposals.json",
+      "catalystData": {
+        "xlsx": "community-dashboard-backend/historical_raw_data/vCA Aggregated - Fund 6.xlsx",
+        "sheet_assessments_count": "Proposals scores",
+        "sheet_reviews_count": "vCA Aggregated"
+      }
+    }
+  },
+  {
+    "origin_script": "community-dashboard-backend/generate-historical-snapshots.py",
+    "outfile": "community-dashboard-backend/historical_snapshots/full_snapshot_f7.json",
+    "datestamp": "20220629",
+    "data_sources": {
+      "templateData": "https://raw.githubusercontent.com/Project-Catalyst/feedback-challenge-tool-backend/master/data/f7/proposals.json",
+      "catalystData": {
+        "xlsx": "community-dashboard-backend/historical_raw_data/vCA Aggregated - Fund 7.xlsx",
+        "sheet_assessments_count": "Proposals scores",
+        "sheet_reviews_count": "vCA Aggregated"
+      }
+    }
+  },
+  {
+    "origin_script": "community-dashboard-backend/generate-historical-snapshots.py",
+    "outfile": "community-dashboard-backend/historical_snapshots/full_snapshot_f8.json",
+    "datestamp": "20220629",
+    "data_sources": {
+      "templateData": "https://raw.githubusercontent.com/Project-Catalyst/feedback-challenge-tool-backend/master/data/f8/proposals.json",
+      "catalystData": {
+        "xlsx": "community-dashboard-backend/historical_raw_data/vCA Aggregated - Fund 8 (Final MVP candidate).xlsx",
+        "sheet_assessments_count": "Proposals scores",
+        "sheet_reviews_count": "vCA Aggregated"
+      }
+    }
+  }
+]
