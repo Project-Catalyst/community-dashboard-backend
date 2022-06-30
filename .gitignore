@@ -1,5 +1,7 @@
 # added by user
-_*
+_*.ipynb
+_pyscripts_ongoing-backends/mockdata/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
