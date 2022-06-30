@@ -13,12 +13,8 @@ import requests
 from urllib.request import urlopen
 from github import Github
 
-OUTFILE = 'snapshots/ca-backend_snapshot.json'
-
 # data paths
 SCRIPT_URL = 'https://github.com/Project-Catalyst/ca-tool-backend/blob/master/generate-dashboard-ca-backend.py'
-DASHBOARD_REPO = 'https://github.com/Project-Catalyst/community-dashboard-backend'
-TEMPLATE_FOLDER_PATH = 'https://github.com/Project-Catalyst/feedback-challenge-tool-backend/tree/master/data'
 TEMPLATE_FILE_PATH = 'https://raw.githubusercontent.com/Project-Catalyst/feedback-challenge-tool-backend/master/data/{}/proposals.json'
 
 
@@ -31,7 +27,7 @@ IDEASCALE API METHODS
 '''
 def loadOptions(goptions = {}):
     try:
-        with open('./options.json', 'r') as f:
+        with open('./dash-options.json', 'r') as f:
             options = json.load(f)
             for k in options:
                 goptions[k] = options[k]
@@ -57,13 +53,6 @@ def getAssessmentsCount(goptions):
                 "assessments_count": idea['noOfAccessors']
             })
     return ideas
-
-'''
-GITHUB ACCESS FUNCTIONS
-'''
-def getTemplateFund():
-    # read latest Github folder name from TEMPLATE_FOLDER_PATH
-    return 'f9'
 
 '''
 DATA PROCESS
@@ -131,13 +120,17 @@ def getStaticResp():
     response = urlopen(url)
     return json.loads(response.read())    
 
-def main(fund):    
+def main():    
     
     # load number of asessments by proposal from ideascale api    
     goptions = loadOptions()
     api_resp = getAssessmentsCount(goptions)
     # api_resp = getStaticResp()
     
+    # configs
+    fund = goptions["fund"]
+    outfile = goptions["outfile"]
+
     if (len(api_resp)):
         data = getTemplateData(fund)
         count = formatAssessmentsCount(api_resp)
@@ -147,10 +140,10 @@ def main(fund):
         # push GitHub update
         try:
             g = Github(goptions['github_access_token'])  
-            repo = g.get_repo(DASHBOARD_REPO)
-            contents = repo.get_contents(OUTFILE)
-            with open(OUTFILE.split('/')[1], 'w') as outfile:  # save local files 
-                json.dump(json_data, outfile, indent=2)
+            repo = g.get_repo(goptions['github_ca_backend_repo'])
+            contents = repo.get_contents(outfile)
+            with open(outfile.split('/')[1], 'w') as f:  # save local files 
+                json.dump(json_data, f, indent=2)
             commit_txt = 'Fund={} snapshot: generated from {}'.format(fund, SCRIPT_URL)
             repo.update_file(contents.path, commit_txt, json.dumps(json_data), contents.sha)
         except Exception as e:
@@ -159,5 +152,4 @@ def main(fund):
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Script to generate Project-Catalyst/community-dashboard-backend/snapshots/ca-backend_snapshot.json')
-    fund = getTemplateFund()
-    main(fund)
+    main()
