@@ -129,7 +129,7 @@ def main():
     
     # configs
     fund = goptions["fund"]
-    outfile = goptions["outfile"]
+    outfile = goptions["outfile_dashboard_backend_repo"]
 
     if (len(api_resp)):
         data = getTemplateData(fund)
@@ -140,7 +140,7 @@ def main():
         # push GitHub update
         try:
             g = Github(goptions['github_access_token'])  
-            repo = g.get_repo(goptions['github_ca_backend_repo'])
+            repo = g.get_repo(goptions['github_dashboard_backend_repo'])
             contents = repo.get_contents(outfile)
             with open(outfile.split('/')[1], 'w') as f:  # save local files 
                 json.dump(json_data, f, indent=2)

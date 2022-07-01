@@ -1,8 +1,8 @@
 {
   "fund": "f9",
-  "outfile": "snapshots/ca-backend_snapshot.json",
+  "outfile_dashboard_backend_repo": "snapshots/ca-backend_snapshot.json",
   "github_access_token": "",
-  "github_ca_backend_repo": "https://github.com/Project-Catalyst/community-dashboard-backend",
+  "github_dashboard_backend_repo": "https://github.com/Project-Catalyst/community-dashboard-backend",
   "ideascale_api_token": "",
   "ideascale_base_api_url": "https://cardano.ideascale.com/a/rest",
   "assess_funnel_stage_ids": ["1234", "5678"],
