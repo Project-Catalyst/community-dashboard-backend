@@ -1,6 +1,6 @@
 # added by user
 _*.ipynb
-_pyscripts_ongoing-backends/mockdata/
+_pyscripts_ongoing-backends/
 
 
 # Byte-compiled / optimized / DLL files
