@@ -1,4728 +1,4874 @@
 [
   {
-    "challenge_id": 26433,
+    "challenge_id": 26593,
     "proposals": [
       {
-        "proposal_id": 396607,
-        "assessments_count": 14
+        "proposal_id": 414002,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 396949,
-        "assessments_count": 9
+        "proposal_id": 414045,
+        "assessments_count": 17
       },
       {
-        "proposal_id": 397164,
+        "proposal_id": 414165,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414384,
         "assessments_count": 7
       },
       {
-        "proposal_id": 397419,
-        "assessments_count": 29
+        "proposal_id": 414614,
+        "assessments_count": 6
       },
       {
-        "proposal_id": 397531,
+        "proposal_id": 414957,
         "assessments_count": 15
       },
       {
-        "proposal_id": 397630,
-        "assessments_count": 6
+        "proposal_id": 417215,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 397636,
-        "assessments_count": 11
+        "proposal_id": 417223,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398184,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398206,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 398664,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398834,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399055,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 399160,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 399803,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399816,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399961,
-        "assessments_count": 26
-      },
-      {
-        "proposal_id": 400273,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400305,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400555,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400681,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400682,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400683,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400762,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 400796,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400911,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400916,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 401069,
+        "proposal_id": 417615,
         "assessments_count": 5
       },
       {
-        "proposal_id": 401118,
-        "assessments_count": 14
+        "proposal_id": 417658,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 401488,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 401717,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402220,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 402231,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402626,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 402743,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 403070,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403815,
+        "proposal_id": 418068,
         "assessments_count": 8
       },
       {
-        "proposal_id": 403820,
-        "assessments_count": 7
+        "proposal_id": 418243,
+        "assessments_count": 5
       },
       {
-        "proposal_id": 403891,
-        "assessments_count": 19
+        "proposal_id": 418348,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 404156,
-        "assessments_count": 12
+        "proposal_id": 419167,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404202,
-        "assessments_count": 11
+        "proposal_id": 419168,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 404384,
-        "assessments_count": 10
+        "proposal_id": 419644,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404509,
-        "assessments_count": 11
+        "proposal_id": 420887,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 404693,
-        "assessments_count": 13
+        "proposal_id": 420911,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 404897,
-        "assessments_count": 20
+        "proposal_id": 421458,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404946,
-        "assessments_count": 9
+        "proposal_id": 421543,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 405002,
-        "assessments_count": 10
+        "proposal_id": 422371,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 405094,
-        "assessments_count": 33
+        "proposal_id": 422411,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 405192,
-        "assessments_count": 23
+        "proposal_id": 422502,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 405253,
-        "assessments_count": 10
+        "proposal_id": 422691,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 405325,
-        "assessments_count": 6
+        "proposal_id": 422879,
+        "assessments_count": 8
       }
     ]
   },
   {
-    "challenge_id": 26434,
+    "challenge_id": 26594,
     "proposals": [
       {
-        "proposal_id": 396522,
-        "assessments_count": 138
+        "proposal_id": 413936,
+        "assessments_count": 5
       },
       {
-        "proposal_id": 396541,
-        "assessments_count": 38
+        "proposal_id": 413956,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 396597,
+        "proposal_id": 413998,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414000,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414019,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414046,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414055,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414090,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414107,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414114,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414117,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414132,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414137,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414142,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414154,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414257,
         "assessments_count": 7
       },
       {
-        "proposal_id": 396809,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 396834,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 397011,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397222,
+        "proposal_id": 414261,
         "assessments_count": 6
       },
       {
-        "proposal_id": 397304,
-        "assessments_count": 5
+        "proposal_id": 414491,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397306,
-        "assessments_count": 6
+        "proposal_id": 414982,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 397324,
-        "assessments_count": 5
+        "proposal_id": 415748,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 397423,
-        "assessments_count": 12
+        "proposal_id": 415815,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397436,
-        "assessments_count": 7
+        "proposal_id": 416125,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397532,
-        "assessments_count": 8
+        "proposal_id": 416451,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397534,
-        "assessments_count": 5
+        "proposal_id": 416517,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397618,
-        "assessments_count": 5
+        "proposal_id": 416549,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397651,
-        "assessments_count": 8
+        "proposal_id": 417049,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397744,
-        "assessments_count": 8
+        "proposal_id": 417193,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398029,
-        "assessments_count": 6
+        "proposal_id": 417704,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398068,
-        "assessments_count": 5
+        "proposal_id": 417856,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398131,
-        "assessments_count": 11
+        "proposal_id": 417887,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 398295,
-        "assessments_count": 5
+        "proposal_id": 418320,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398297,
-        "assessments_count": 6
+        "proposal_id": 418428,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398299,
-        "assessments_count": 6
+        "proposal_id": 418547,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 398378,
-        "assessments_count": 6
+        "proposal_id": 418557,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398609,
-        "assessments_count": 5
+        "proposal_id": 419058,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398799,
-        "assessments_count": 12
+        "proposal_id": 419079,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398979,
-        "assessments_count": 5
+        "proposal_id": 419242,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399099,
-        "assessments_count": 5
+        "proposal_id": 419483,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399116,
-        "assessments_count": 7
+        "proposal_id": 419512,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 399192,
-        "assessments_count": 5
+        "proposal_id": 419756,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 399555,
-        "assessments_count": 9
+        "proposal_id": 419784,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 399578,
-        "assessments_count": 6
+        "proposal_id": 420084,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 399651,
-        "assessments_count": 5
+        "proposal_id": 420109,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400314,
-        "assessments_count": 5
+        "proposal_id": 420132,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400316,
-        "assessments_count": 5
+        "proposal_id": 420456,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 400387,
-        "assessments_count": 6
+        "proposal_id": 420727,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400419,
-        "assessments_count": 10
+        "proposal_id": 420910,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400436,
-        "assessments_count": 5
+        "proposal_id": 420989,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400498,
-        "assessments_count": 5
+        "proposal_id": 421280,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400522,
-        "assessments_count": 9
+        "proposal_id": 421298,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400674,
-        "assessments_count": 5
+        "proposal_id": 421410,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400675,
-        "assessments_count": 5
+        "proposal_id": 421444,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400676,
-        "assessments_count": 6
+        "proposal_id": 421464,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400677,
-        "assessments_count": 6
+        "proposal_id": 421586,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400720,
-        "assessments_count": 8
+        "proposal_id": 421708,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400730,
-        "assessments_count": 5
+        "proposal_id": 421753,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 400865,
-        "assessments_count": 6
+        "proposal_id": 421792,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400900,
-        "assessments_count": 5
+        "proposal_id": 421822,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400923,
-        "assessments_count": 7
+        "proposal_id": 421987,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401008,
-        "assessments_count": 5
+        "proposal_id": 422003,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402129,
-        "assessments_count": 9
+        "proposal_id": 422150,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402180,
-        "assessments_count": 11
+        "proposal_id": 422163,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402572,
-        "assessments_count": 5
+        "proposal_id": 422185,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402656,
-        "assessments_count": 5
+        "proposal_id": 422190,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403247,
-        "assessments_count": 7
+        "proposal_id": 422195,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403551,
-        "assessments_count": 5
+        "proposal_id": 422364,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403562,
-        "assessments_count": 8
+        "proposal_id": 422372,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 403575,
-        "assessments_count": 6
+        "proposal_id": 422396,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403621,
-        "assessments_count": 5
+        "proposal_id": 422562,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403653,
-        "assessments_count": 5
+        "proposal_id": 422572,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403699,
-        "assessments_count": 7
+        "proposal_id": 422581,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 403806,
-        "assessments_count": 6
+        "proposal_id": 422599,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403988,
-        "assessments_count": 10
+        "proposal_id": 422615,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404140,
-        "assessments_count": 5
+        "proposal_id": 422741,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404218,
-        "assessments_count": 6
+        "proposal_id": 422840,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404305,
-        "assessments_count": 5
+        "proposal_id": 422883,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404356,
-        "assessments_count": 5
+        "proposal_id": 423032,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404456,
-        "assessments_count": 6
+        "proposal_id": 423041,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404475,
-        "assessments_count": 6
+        "proposal_id": 423049,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404517,
-        "assessments_count": 5
+        "proposal_id": 423104,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404686,
-        "assessments_count": 9
+        "proposal_id": 423128,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404699,
-        "assessments_count": 10
+        "proposal_id": 423184,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404737,
-        "assessments_count": 5
+        "proposal_id": 423195,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404809,
-        "assessments_count": 5
+        "proposal_id": 423201,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 404874,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404918,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404951,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404960,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404976,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405027,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405124,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405125,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405135,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405141,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405161,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405179,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405190,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405346,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405474,
-        "assessments_count": 9
+        "proposal_id": 423223,
+        "assessments_count": 1
       }
     ]
   },
   {
-    "challenge_id": 26435,
+    "challenge_id": 26595,
     "proposals": [
       {
-        "proposal_id": 396649,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 396669,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 397034,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 397237,
+        "proposal_id": 413931,
         "assessments_count": 16
       },
       {
-        "proposal_id": 397645,
-        "assessments_count": 32
+        "proposal_id": 413938,
+        "assessments_count": 10
       },
       {
-        "proposal_id": 397649,
+        "proposal_id": 413942,
+        "assessments_count": 8
+      },
+      {
+        "proposal_id": 413950,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 413955,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 413958,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 413960,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 413962,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 413977,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 413980,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 413989,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 413990,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 413992,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414017,
+        "assessments_count": 7
+      },
+      {
+        "proposal_id": 414032,
+        "assessments_count": 9
+      },
+      {
+        "proposal_id": 414047,
+        "assessments_count": 7
+      },
+      {
+        "proposal_id": 414056,
+        "assessments_count": 10
+      },
+      {
+        "proposal_id": 414059,
+        "assessments_count": 8
+      },
+      {
+        "proposal_id": 414067,
+        "assessments_count": 11
+      },
+      {
+        "proposal_id": 414068,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414071,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414100,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 414104,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414127,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414140,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414168,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414174,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414185,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414195,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 414199,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414201,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414203,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414213,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414216,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414220,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414227,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414232,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414234,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414238,
+        "assessments_count": 7
+      },
+      {
+        "proposal_id": 414243,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414246,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414249,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414255,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414263,
+        "assessments_count": 7
+      },
+      {
+        "proposal_id": 414286,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414289,
+        "assessments_count": 9
+      },
+      {
+        "proposal_id": 414340,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414357,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414367,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414374,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414379,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414400,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414405,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414416,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414428,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414440,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414441,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414457,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414473,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414477,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414488,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414490,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414536,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414552,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414624,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414647,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414684,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414687,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414697,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414729,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414760,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414795,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414802,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414809,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414872,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414876,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414890,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414903,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414907,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414918,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414945,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414953,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414972,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 415013,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415015,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 415017,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415094,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 415110,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415114,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 415125,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 415142,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415152,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 415153,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 415157,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415174,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415197,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415486,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415503,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415697,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415707,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415725,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 415895,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415976,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416192,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416231,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416274,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416361,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416435,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416467,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416529,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416545,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416563,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416611,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416638,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416641,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416653,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416656,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416660,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416678,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416681,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416730,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416743,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416745,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416757,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416770,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416795,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416902,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 416917,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416954,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416983,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416991,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416992,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416997,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417002,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417018,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417021,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417043,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417081,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417116,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417121,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417122,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417130,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417137,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417139,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417168,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417197,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417200,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417203,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417243,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417247,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417249,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417258,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417262,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417270,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417282,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417289,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417294,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417296,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417297,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417299,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417300,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417302,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417303,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417305,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417309,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417310,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417318,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417350,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417352,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417364,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417400,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417412,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417475,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417497,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417500,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417523,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417554,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417569,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417574,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417614,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417652,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417656,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417662,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417693,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 417770,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417784,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417800,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417836,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417905,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417936,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417947,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417955,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417956,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417970,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417971,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417978,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417980,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417999,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418010,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418015,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418047,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418085,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418088,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418092,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418198,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418215,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418217,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418218,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418245,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418254,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418255,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418298,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 418340,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418386,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418450,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418497,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418505,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 418524,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418558,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418576,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418587,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418607,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418686,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418735,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418751,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418759,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 418772,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418778,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418796,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418806,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418833,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418840,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418841,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418845,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418904,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418919,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418958,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418985,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418992,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419009,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419013,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419020,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419028,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419088,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419098,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419132,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419149,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419150,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419151,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419153,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419164,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419213,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419324,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419336,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 419380,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419407,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419409,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419418,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419421,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419432,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419441,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419448,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419463,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 419464,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419487,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419509,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419511,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419513,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419517,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419556,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419575,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419640,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419658,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419660,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419676,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419701,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419716,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419723,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419724,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419731,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419779,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 419782,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419818,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419838,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419840,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419898,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419917,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419922,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419925,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419933,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 419946,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419950,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419979,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420078,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420087,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420098,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420106,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420146,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420151,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420186,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 420194,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420196,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420202,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420210,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420268,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420320,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420373,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420382,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420385,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420410,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420538,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420588,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420594,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420604,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420635,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420652,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420670,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420676,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420716,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420735,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420741,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420765,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420784,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420812,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420813,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420827,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420833,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420900,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420904,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420909,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420924,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420944,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420950,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420977,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421014,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421042,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421050,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421065,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 421119,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421147,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421173,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421175,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421194,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421218,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421263,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421270,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421277,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421294,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421345,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421355,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421371,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421376,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421449,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421502,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421507,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421534,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421535,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421537,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421540,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421571,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421602,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421604,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421609,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421612,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421655,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421670,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421671,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421701,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421718,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421723,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421737,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421742,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421752,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421767,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421797,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421801,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421825,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421830,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421864,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421867,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421872,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421874,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421892,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421908,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421928,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421937,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 421942,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421968,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421973,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 421982,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421989,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422001,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422018,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422040,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422041,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422045,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422053,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422058,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422069,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422077,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422087,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422112,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422120,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422154,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422171,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422173,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422182,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422218,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422219,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422227,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422229,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 422247,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422248,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422251,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422263,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422273,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422283,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422291,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422294,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422296,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422301,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422308,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422318,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422328,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422332,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422339,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422390,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422400,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422402,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422408,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422413,
+        "assessments_count": 7
+      },
+      {
+        "proposal_id": 422419,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422421,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422434,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422443,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422444,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422447,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422448,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422461,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422465,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422487,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422489,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422492,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422500,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422515,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422518,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422538,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422542,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422545,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422548,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422560,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422569,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422571,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422582,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422592,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422608,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 422635,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422641,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422655,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422660,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422676,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422686,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422692,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422707,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422724,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422745,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422762,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422788,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422853,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422854,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422882,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422890,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422900,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422927,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422940,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422984,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 422997,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422999,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 423000,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423007,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423016,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423021,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423028,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 423029,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423030,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423036,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423055,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423064,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423067,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423072,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423074,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423096,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423114,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 423125,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 423190,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423227,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423260,
+        "assessments_count": 6
+      }
+    ]
+  },
+  {
+    "challenge_id": 26596,
+    "proposals": [
+      {
+        "proposal_id": 413963,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414095,
+        "assessments_count": 10
+      },
+      {
+        "proposal_id": 414139,
+        "assessments_count": 9
+      },
+      {
+        "proposal_id": 414237,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414322,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414427,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 414465,
+        "assessments_count": 8
+      },
+      {
+        "proposal_id": 415644,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 415897,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416344,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416507,
+        "assessments_count": 10
+      },
+      {
+        "proposal_id": 416513,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 416918,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417004,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417208,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417402,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417566,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417654,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417828,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418286,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 418352,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418502,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 418844,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 418964,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419012,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 419399,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 419576,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419696,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 419851,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 420008,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 420390,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 420545,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 421009,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421110,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421139,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 421568,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421607,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421614,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 422117,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422135,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422389,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422436,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422511,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422549,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422550,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422989,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423039,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423077,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423177,
+        "assessments_count": 1
+      }
+    ]
+  },
+  {
+    "challenge_id": 26597,
+    "proposals": [
+      {
+        "proposal_id": 413964,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 413967,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414001,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414020,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414027,
+        "assessments_count": 8
+      },
+      {
+        "proposal_id": 414065,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414076,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414086,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 414088,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414103,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414111,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414144,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414258,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414265,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414321,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414462,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414720,
+        "assessments_count": 10
+      },
+      {
+        "proposal_id": 414813,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414825,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414896,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414898,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414899,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 415012,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415171,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415204,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415632,
+        "assessments_count": 8
+      },
+      {
+        "proposal_id": 415781,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416112,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416115,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416132,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416191,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416383,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416645,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416790,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416830,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416880,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416933,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417012,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417091,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417129,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417176,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417248,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417546,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417570,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418098,
+        "assessments_count": 9
+      },
+      {
+        "proposal_id": 418104,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418195,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418206,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418343,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418345,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418458,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418564,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418725,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418957,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419066,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419112,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419154,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419158,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419159,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419160,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419161,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419367,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419400,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419444,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419492,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419570,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419863,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419934,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419939,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420147,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420355,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420395,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420778,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420895,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420946,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420980,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421103,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421215,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421223,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421326,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421356,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421443,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421465,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421486,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421506,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421555,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421617,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421674,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421676,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421750,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421769,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421770,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421796,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421807,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421817,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421844,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421873,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421906,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421924,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421992,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422035,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422099,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422104,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422127,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422193,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422249,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422336,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422358,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422361,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422365,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422368,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422370,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422388,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422405,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422429,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 422451,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422478,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 422504,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422514,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422534,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422539,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422559,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422578,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422603,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422708,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422721,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422817,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422818,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422861,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423113,
+        "assessments_count": 2
+      }
+    ]
+  },
+  {
+    "challenge_id": 26598,
+    "proposals": [
+      {
+        "proposal_id": 413974,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 413981,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414008,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414118,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414124,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414170,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414369,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 414515,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414712,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 415122,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 415658,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416363,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416470,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416502,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416625,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416735,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 416766,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416801,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416944,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417123,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417329,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417395,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417406,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418219,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418220,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418235,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418526,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418563,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418590,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418696,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418798,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418933,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 419165,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419241,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419295,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419387,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419397,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419413,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419592,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419656,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419671,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419745,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419813,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419964,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420176,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420866,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420891,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420897,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421242,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421375,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421608,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421661,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421734,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421771,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421782,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421804,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421888,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422010,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422075,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422081,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422132,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422297,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422381,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422416,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422533,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422594,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422712,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422723,
+        "assessments_count": 1
+      }
+    ]
+  },
+  {
+    "challenge_id": 26599,
+    "proposals": [
+      {
+        "proposal_id": 414025,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414126,
         "assessments_count": 15
       },
       {
-        "proposal_id": 398196,
-        "assessments_count": 13
+        "proposal_id": 414210,
+        "assessments_count": 10
       },
       {
-        "proposal_id": 398750,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 398936,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 398983,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 399172,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 399269,
+        "proposal_id": 414271,
         "assessments_count": 7
       },
       {
-        "proposal_id": 399325,
-        "assessments_count": 13
+        "proposal_id": 414276,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 399648,
-        "assessments_count": 15
+        "proposal_id": 414282,
+        "assessments_count": 5
       },
       {
-        "proposal_id": 400038,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 400171,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 400207,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400234,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400251,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400437,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400588,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 400610,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 400702,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400721,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400812,
+        "proposal_id": 414506,
         "assessments_count": 14
       },
       {
-        "proposal_id": 400838,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400847,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 400945,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 401010,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 401017,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 401114,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 401357,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 402385,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 402471,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 402891,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 403633,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403695,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 404090,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 404344,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404575,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404715,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 404970,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 405294,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 405351,
-        "assessments_count": 10
-      }
-    ]
-  },
-  {
-    "challenge_id": 26436,
-    "proposals": [
-      {
-        "proposal_id": 397084,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397166,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397210,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397953,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398466,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398770,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 398773,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 398776,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 398794,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398796,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398800,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398976,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399111,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399320,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399840,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399852,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399983,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400196,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400303,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400453,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400494,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400707,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400712,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400718,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400819,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 401951,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402020,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 402689,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 402760,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 403636,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404533,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404679,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405252,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405283,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 405373,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 405382,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405390,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 405394,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 405398,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 405404,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405412,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405417,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 405424,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 405427,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 405436,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 405441,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405444,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405448,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405463,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405467,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405472,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 405482,
-        "assessments_count": 26
-      }
-    ]
-  },
-  {
-    "challenge_id": 26437,
-    "proposals": [
-      {
-        "proposal_id": 396617,
-        "assessments_count": 23
-      },
-      {
-        "proposal_id": 397780,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 398933,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399199,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 399806,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400079,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 400431,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400687,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400815,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 401827,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 401899,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404458,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404476,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404556,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405072,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405236,
-        "assessments_count": 14
-      }
-    ]
-  },
-  {
-    "challenge_id": 26438,
-    "proposals": [
-      {
-        "proposal_id": 396524,
-        "assessments_count": 54
-      },
-      {
-        "proposal_id": 396549,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 396558,
-        "assessments_count": 23
-      },
-      {
-        "proposal_id": 396583,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 396602,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 396654,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 396671,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 396676,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 396693,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 396799,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 396816,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 396842,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 396850,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 396874,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 396925,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397004,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397053,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397245,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397264,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 397281,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397288,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397299,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397568,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397627,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397681,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397685,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397690,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 397918,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397939,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397951,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397957,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397964,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398034,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398057,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398070,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398078,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398088,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398146,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398374,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398508,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398556,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398559,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398589,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398652,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398691,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398774,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398790,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398807,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398808,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398871,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398904,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398947,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399135,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399165,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399283,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399302,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399362,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399391,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399408,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399415,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399544,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399558,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399702,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399750,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399805,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399964,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400019,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 400040,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400077,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400279,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400352,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400368,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400406,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400434,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400460,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400474,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400511,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400642,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400643,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400666,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400668,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400672,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400673,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400706,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400723,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400771,
+        "proposal_id": 414716,
         "assessments_count": 12
       },
       {
-        "proposal_id": 400810,
+        "proposal_id": 415053,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 415367,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417115,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417204,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417332,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 418120,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 418338,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 418445,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418849,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419477,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419787,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419883,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420145,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420233,
         "assessments_count": 5
       },
       {
-        "proposal_id": 400926,
-        "assessments_count": 6
+        "proposal_id": 420553,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 400985,
-        "assessments_count": 6
+        "proposal_id": 421296,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401076,
-        "assessments_count": 8
+        "proposal_id": 421331,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401104,
-        "assessments_count": 6
+        "proposal_id": 421401,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401127,
-        "assessments_count": 6
+        "proposal_id": 421479,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401131,
-        "assessments_count": 5
+        "proposal_id": 421675,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401288,
-        "assessments_count": 6
+        "proposal_id": 421815,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401291,
-        "assessments_count": 5
+        "proposal_id": 421959,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401322,
-        "assessments_count": 5
+        "proposal_id": 422068,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401423,
-        "assessments_count": 5
+        "proposal_id": 422335,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401445,
-        "assessments_count": 6
+        "proposal_id": 422360,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401485,
-        "assessments_count": 6
+        "proposal_id": 422563,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401494,
-        "assessments_count": 5
+        "proposal_id": 422703,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 401497,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 401668,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 402898,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403809,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 403924,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403967,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404192,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404323,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404418,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404565,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 404572,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404617,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404668,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 404817,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404895,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404901,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404903,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404928,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404949,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404963,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404984,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404988,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405041,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405050,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405104,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 405110,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 405162,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405209,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405211,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405213,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 405271,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 405326,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 405337,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405338,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405359,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405401,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405413,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405486,
-        "assessments_count": 31
-      }
-    ]
-  },
-  {
-    "challenge_id": 26439,
-    "proposals": [
-      {
-        "proposal_id": 396546,
-        "assessments_count": 34
-      },
-      {
-        "proposal_id": 396554,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 396845,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 397021,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 397213,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 397460,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 398044,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 398141,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398211,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398359,
-        "assessments_count": 23
-      },
-      {
-        "proposal_id": 398592,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 398639,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398647,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398828,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398830,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398832,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398836,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 398848,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 398924,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399065,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399141,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399147,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399231,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 399413,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399431,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399451,
-        "assessments_count": 25
-      },
-      {
-        "proposal_id": 399479,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 399613,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399704,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399730,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 399888,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 399906,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 399957,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399969,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 400051,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400069,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400117,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400180,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400205,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400304,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 400521,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400530,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400750,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400922,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400949,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400955,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 401122,
-        "assessments_count": 35
-      },
-      {
-        "proposal_id": 401310,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 401709,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 402601,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 403009,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403271,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403484,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403743,
-        "assessments_count": 25
-      },
-      {
-        "proposal_id": 403802,
-        "assessments_count": 31
-      },
-      {
-        "proposal_id": 404094,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 404503,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404660,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 404763,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 404834,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 404871,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404887,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 404971,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405146,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405150,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405177,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 405299,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405354,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405402,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405477,
-        "assessments_count": 18
-      }
-    ]
-  },
-  {
-    "challenge_id": 26440,
-    "proposals": [
-      {
-        "proposal_id": 396627,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 396687,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 397232,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 397289,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 397365,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 397373,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 397499,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 397914,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 398090,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398119,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398127,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398168,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 398534,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398745,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399075,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399118,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399175,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399208,
-        "assessments_count": 32
-      },
-      {
-        "proposal_id": 399291,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399586,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 399590,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 399637,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399768,
-        "assessments_count": 32
-      },
-      {
-        "proposal_id": 399991,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400005,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400008,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400224,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400284,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400390,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400514,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400760,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400848,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400905,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400975,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400983,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400988,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 401034,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 401098,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 401999,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 402618,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 402664,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402729,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 403708,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404245,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404260,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404315,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404544,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404851,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404893,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404938,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405096,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405205,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 405225,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 405232,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405243,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405261,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405267,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 405275,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 405317,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405334,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405375,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405442,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 405445,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405479,
-        "assessments_count": 13
-      }
-    ]
-  },
-  {
-    "challenge_id": 26441,
-    "proposals": [
-      {
-        "proposal_id": 396590,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 396621,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 396624,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 396865,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 396926,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397124,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 397250,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 397266,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397415,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397456,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 397548,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397644,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397727,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397967,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398074,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398077,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398112,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 398140,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398275,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398381,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398460,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398900,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398935,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399026,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399108,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399228,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399258,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399266,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399279,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399491,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399550,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399696,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399746,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399829,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399847,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399973,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400002,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400023,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400041,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400058,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400119,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400206,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400295,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400297,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400347,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400388,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400468,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400507,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400526,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400585,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400611,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 400695,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400801,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400906,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400931,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400974,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401081,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401084,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401091,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 401558,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401765,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 402044,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 402050,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 402856,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 403205,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 403440,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 403596,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403681,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403795,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404028,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404029,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404131,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404213,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 404499,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404576,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404869,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404917,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404995,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405052,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405064,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405071,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405088,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405139,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405199,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405297,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405410,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405415,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405459,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 405471,
+        "proposal_id": 423099,
         "assessments_count": 7
       }
     ]
   },
   {
-    "challenge_id": 26442,
+    "challenge_id": 26600,
     "proposals": [
       {
-        "proposal_id": 396574,
-        "assessments_count": 38
+        "proposal_id": 414050,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 396652,
-        "assessments_count": 21
+        "proposal_id": 414052,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 397137,
-        "assessments_count": 8
+        "proposal_id": 414063,
+        "assessments_count": 5
       },
       {
-        "proposal_id": 397560,
-        "assessments_count": 20
+        "proposal_id": 414087,
+        "assessments_count": 7
       },
       {
-        "proposal_id": 397565,
-        "assessments_count": 19
+        "proposal_id": 414109,
+        "assessments_count": 6
       },
       {
-        "proposal_id": 398056,
-        "assessments_count": 12
+        "proposal_id": 414229,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 398171,
-        "assessments_count": 25
-      },
-      {
-        "proposal_id": 398382,
-        "assessments_count": 35
-      },
-      {
-        "proposal_id": 398601,
-        "assessments_count": 43
-      },
-      {
-        "proposal_id": 399035,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 399158,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399187,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 399235,
+        "proposal_id": 414389,
         "assessments_count": 9
       },
       {
-        "proposal_id": 399517,
-        "assessments_count": 22
+        "proposal_id": 414464,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 399650,
-        "assessments_count": 21
+        "proposal_id": 414468,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 399765,
-        "assessments_count": 14
+        "proposal_id": 414661,
+        "assessments_count": 5
       },
       {
-        "proposal_id": 399813,
+        "proposal_id": 414699,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 414806,
         "assessments_count": 8
       },
       {
-        "proposal_id": 399818,
-        "assessments_count": 19
+        "proposal_id": 414892,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399849,
-        "assessments_count": 12
+        "proposal_id": 414894,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 400061,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400070,
-        "assessments_count": 28
-      },
-      {
-        "proposal_id": 400152,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 400195,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 400354,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 400394,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 400411,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 400631,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 400871,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 400888,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 400933,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 401072,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 401078,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 401102,
+        "proposal_id": 414939,
         "assessments_count": 11
       },
       {
-        "proposal_id": 401105,
-        "assessments_count": 53
+        "proposal_id": 415924,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401390,
-        "assessments_count": 11
+        "proposal_id": 416375,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 401713,
-        "assessments_count": 54
+        "proposal_id": 416389,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 401905,
-        "assessments_count": 11
+        "proposal_id": 416543,
+        "assessments_count": 6
       },
       {
-        "proposal_id": 402006,
-        "assessments_count": 10
+        "proposal_id": 416989,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 402528,
-        "assessments_count": 14
+        "proposal_id": 417142,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 403160,
-        "assessments_count": 10
+        "proposal_id": 417189,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 403182,
-        "assessments_count": 33
+        "proposal_id": 417325,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 403603,
-        "assessments_count": 11
+        "proposal_id": 417392,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 403662,
-        "assessments_count": 27
+        "proposal_id": 417537,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 403811,
-        "assessments_count": 11
+        "proposal_id": 417579,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404103,
-        "assessments_count": 15
+        "proposal_id": 417582,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 404268,
-        "assessments_count": 23
+        "proposal_id": 417884,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404571,
-        "assessments_count": 14
+        "proposal_id": 417973,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404579,
-        "assessments_count": 9
+        "proposal_id": 418146,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404659,
-        "assessments_count": 21
+        "proposal_id": 418252,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404682,
-        "assessments_count": 42
+        "proposal_id": 418257,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 404841,
-        "assessments_count": 17
+        "proposal_id": 418297,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405003,
-        "assessments_count": 12
+        "proposal_id": 418305,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 405251,
-        "assessments_count": 10
+        "proposal_id": 418308,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405342,
-        "assessments_count": 8
+        "proposal_id": 418376,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405392,
-        "assessments_count": 17
+        "proposal_id": 418385,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 405450,
-        "assessments_count": 15
+        "proposal_id": 418397,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 418706,
+        "assessments_count": 7
+      },
+      {
+        "proposal_id": 418819,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 418944,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 418954,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 419145,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 419449,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 419493,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419831,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419876,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 419889,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420032,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 420235,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 420273,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 420354,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420496,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 420525,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 420551,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420829,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420916,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421063,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421067,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421074,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421169,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421197,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421256,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421330,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421798,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421820,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 421871,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421887,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421927,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421935,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421944,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422005,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422022,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422052,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422123,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422155,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422231,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422366,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422378,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422393,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422432,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422439,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422457,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422497,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422501,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422553,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422565,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422598,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422620,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422690,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422696,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422744,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422803,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422842,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 422943,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422947,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422980,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423018,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 423065,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 423070,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423076,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423109,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 423118,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423121,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423204,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 423252,
+        "assessments_count": 4
       }
     ]
   },
   {
-    "challenge_id": 26443,
+    "challenge_id": 26601,
     "proposals": [
       {
-        "proposal_id": 396578,
-        "assessments_count": 11
+        "proposal_id": 414277,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 396588,
-        "assessments_count": 6
+        "proposal_id": 414393,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 396593,
-        "assessments_count": 5
+        "proposal_id": 414407,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 396670,
-        "assessments_count": 6
+        "proposal_id": 414969,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 397135,
-        "assessments_count": 5
+        "proposal_id": 414985,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397146,
-        "assessments_count": 6
+        "proposal_id": 415035,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 397182,
-        "assessments_count": 6
+        "proposal_id": 416196,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397429,
-        "assessments_count": 5
+        "proposal_id": 416276,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397648,
-        "assessments_count": 5
+        "proposal_id": 416409,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397900,
-        "assessments_count": 5
+        "proposal_id": 416737,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 397971,
-        "assessments_count": 8
+        "proposal_id": 417166,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398069,
-        "assessments_count": 9
+        "proposal_id": 418748,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398274,
-        "assessments_count": 11
+        "proposal_id": 419171,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 398408,
-        "assessments_count": 6
+        "proposal_id": 419267,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398547,
-        "assessments_count": 6
+        "proposal_id": 420262,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398764,
-        "assessments_count": 7
+        "proposal_id": 421204,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399036,
-        "assessments_count": 10
+        "proposal_id": 421554,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399040,
-        "assessments_count": 6
+        "proposal_id": 421562,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 399396,
-        "assessments_count": 6
+        "proposal_id": 421808,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399419,
-        "assessments_count": 5
+        "proposal_id": 421816,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399710,
-        "assessments_count": 5
+        "proposal_id": 422147,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399832,
-        "assessments_count": 6
+        "proposal_id": 422250,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 399879,
-        "assessments_count": 7
+        "proposal_id": 422632,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400321,
-        "assessments_count": 8
+        "proposal_id": 423010,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 400341,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400391,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400651,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400692,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400694,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400751,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400892,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 401391,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 401428,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 401493,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401700,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402941,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 403925,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404788,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404974,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405198,
-        "assessments_count": 8
+        "proposal_id": 423120,
+        "assessments_count": 1
       }
     ]
   },
   {
-    "challenge_id": 26444,
+    "challenge_id": 26602,
     "proposals": [
       {
-        "proposal_id": 396542,
-        "assessments_count": 66
+        "proposal_id": 414099,
+        "assessments_count": 12
       },
       {
-        "proposal_id": 396662,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 396832,
-        "assessments_count": 26
-      },
-      {
-        "proposal_id": 397023,
-        "assessments_count": 27
-      },
-      {
-        "proposal_id": 397039,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 397463,
-        "assessments_count": 19
-      },
-      {
-        "proposal_id": 397574,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 397576,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 397578,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 397580,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 397823,
+        "proposal_id": 414874,
         "assessments_count": 9
       },
       {
-        "proposal_id": 397958,
-        "assessments_count": 13
+        "proposal_id": 415326,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398021,
-        "assessments_count": 14
+        "proposal_id": 415582,
+        "assessments_count": 5
       },
       {
-        "proposal_id": 398383,
-        "assessments_count": 16
+        "proposal_id": 416455,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 398931,
-        "assessments_count": 10
+        "proposal_id": 416479,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 398993,
-        "assessments_count": 28
-      },
-      {
-        "proposal_id": 398994,
-        "assessments_count": 28
-      },
-      {
-        "proposal_id": 399170,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400427,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400496,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 400671,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 400981,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 401077,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 401313,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 401887,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 403756,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 403932,
-        "assessments_count": 28
-      },
-      {
-        "proposal_id": 404470,
-        "assessments_count": 29
-      },
-      {
-        "proposal_id": 405015,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405186,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 405214,
+        "proposal_id": 416610,
         "assessments_count": 7
       },
       {
-        "proposal_id": 405218,
-        "assessments_count": 9
+        "proposal_id": 416627,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 405250,
-        "assessments_count": 13
+        "proposal_id": 416688,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 405289,
-        "assessments_count": 10
+        "proposal_id": 416691,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 416694,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 416699,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 416986,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417033,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417057,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 417062,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417260,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 417263,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 417265,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 417268,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417274,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417277,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417311,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 417327,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417356,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 417366,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 417455,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417628,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 417653,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417700,
+        "assessments_count": 5
+      },
+      {
+        "proposal_id": 417974,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418462,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 418484,
+        "assessments_count": 6
+      },
+      {
+        "proposal_id": 418728,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 418795,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 418881,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 418922,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419137,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419221,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419564,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 419938,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 420039,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 420226,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 420380,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 420396,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420563,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420774,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420823,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420952,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421010,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 421124,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421132,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421171,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421248,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 421446,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421569,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421627,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421654,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422034,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422043,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422090,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422510,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422586,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422687,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422747,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422893,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423023,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423080,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 423083,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423110,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 423129,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423145,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 423157,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 423225,
+        "assessments_count": 2
       }
     ]
   },
   {
-    "challenge_id": 26445,
+    "challenge_id": 26603,
     "proposals": [
       {
-        "proposal_id": 396564,
-        "assessments_count": 17
+        "proposal_id": 414381,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 396657,
-        "assessments_count": 10
+        "proposal_id": 417156,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 396673,
-        "assessments_count": 16
+        "proposal_id": 417900,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 396703,
-        "assessments_count": 7
+        "proposal_id": 418334,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 396820,
-        "assessments_count": 9
+        "proposal_id": 418781,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 397114,
-        "assessments_count": 11
+        "proposal_id": 420791,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 397127,
-        "assessments_count": 6
+        "proposal_id": 420794,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 397172,
-        "assessments_count": 11
+        "proposal_id": 421477,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 397257,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 397339,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 397359,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397581,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 397768,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397822,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397913,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 397919,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398012,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398071,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 398135,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398172,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 398567,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398642,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398692,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 398894,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398920,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398921,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398930,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 399102,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399183,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399243,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399247,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 399361,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399532,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399557,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399629,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399713,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399842,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399904,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399916,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399921,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399926,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399940,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400078,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 400097,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400269,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400414,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400456,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400466,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400531,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400594,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400663,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400690,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400756,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400767,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400811,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400831,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400858,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400869,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400948,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400976,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400989,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 401023,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 401025,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 401150,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 401505,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 401616,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402016,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403464,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403552,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404304,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404334,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404471,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404580,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 404757,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404973,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 404991,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405014,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405089,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405101,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405175,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 405281,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 405411,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405439,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 405457,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405478,
-        "assessments_count": 12
+        "proposal_id": 423200,
+        "assessments_count": 1
       }
     ]
   },
   {
-    "challenge_id": 26446,
+    "challenge_id": 26604,
     "proposals": [
       {
-        "proposal_id": 396560,
-        "assessments_count": 16
+        "proposal_id": 413991,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 397340,
-        "assessments_count": 5
+        "proposal_id": 413996,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 397877,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 397934,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398222,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398686,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398934,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399020,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 399589,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 399817,
+        "proposal_id": 414030,
         "assessments_count": 6
       },
       {
-        "proposal_id": 399826,
-        "assessments_count": 6
+        "proposal_id": 414105,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 400282,
-        "assessments_count": 6
+        "proposal_id": 414208,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 400515,
-        "assessments_count": 6
+        "proposal_id": 414268,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 400662,
-        "assessments_count": 7
+        "proposal_id": 414292,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 400719,
-        "assessments_count": 7
+        "proposal_id": 414299,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 400884,
-        "assessments_count": 5
+        "proposal_id": 414304,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 400941,
-        "assessments_count": 7
+        "proposal_id": 414308,
+        "assessments_count": 4
       },
       {
-        "proposal_id": 401021,
-        "assessments_count": 5
+        "proposal_id": 414312,
+        "assessments_count": 2
       },
       {
-        "proposal_id": 403011,
-        "assessments_count": 6
+        "proposal_id": 414313,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 404539,
-        "assessments_count": 7
+        "proposal_id": 414314,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 404815,
-        "assessments_count": 13
+        "proposal_id": 414316,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404826,
-        "assessments_count": 7
+        "proposal_id": 414318,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404952,
-        "assessments_count": 13
+        "proposal_id": 414562,
+        "assessments_count": 3
       },
       {
-        "proposal_id": 405370,
-        "assessments_count": 6
+        "proposal_id": 414641,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414706,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414848,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 414858,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415010,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 415716,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 416291,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416448,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 416449,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417048,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 417104,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417284,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417316,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417515,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417578,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417629,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 417910,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 418440,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418533,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 418768,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 419032,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 419157,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 419226,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 419498,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420431,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420610,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 420957,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421335,
+        "assessments_count": 3
+      },
+      {
+        "proposal_id": 421390,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 421514,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421545,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421826,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 421868,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422204,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422276,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422355,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 422412,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422445,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 422540,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 422584,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 423211,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423218,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 423220,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 423239,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 423249,
+        "assessments_count": 2
+      },
+      {
+        "proposal_id": 423261,
+        "assessments_count": 2
       }
     ]
   },
   {
-    "challenge_id": 26447,
+    "challenge_id": 26605,
     "proposals": [
       {
-        "proposal_id": 396595,
-        "assessments_count": 8
+        "proposal_id": 413976,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 397911,
+        "proposal_id": 414021,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414167,
+        "assessments_count": 4
+      },
+      {
+        "proposal_id": 414251,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414705,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 414884,
+        "assessments_count": 0
+      },
+      {
+        "proposal_id": 415062,
+        "assessments_count": 1
+      },
+      {
+        "proposal_id": 415100,
         "assessments_count": 5
       },
       {
-        "proposal_id": 398225,
-        "assessments_count": 6
+        "proposal_id": 416182,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398308,
-        "assessments_count": 7
+        "proposal_id": 416321,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398309,
-        "assessments_count": 6
+        "proposal_id": 417108,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 398310,
-        "assessments_count": 5
+        "proposal_id": 418201,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 399163,
-        "assessments_count": 10
+        "proposal_id": 418205,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 399215,
-        "assessments_count": 7
+        "proposal_id": 418897,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 399360,
-        "assessments_count": 7
+        "proposal_id": 419016,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400301,
-        "assessments_count": 7
+        "proposal_id": 419097,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400359,
-        "assessments_count": 8
+        "proposal_id": 419179,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400377,
-        "assessments_count": 7
+        "proposal_id": 419340,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 400986,
-        "assessments_count": 7
+        "proposal_id": 419685,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 401628,
-        "assessments_count": 7
+        "proposal_id": 420021,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402143,
-        "assessments_count": 6
+        "proposal_id": 420216,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402301,
-        "assessments_count": 7
+        "proposal_id": 420359,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402487,
-        "assessments_count": 9
+        "proposal_id": 420625,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 402831,
-        "assessments_count": 7
+        "proposal_id": 421273,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 403803,
-        "assessments_count": 7
+        "proposal_id": 421532,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404299,
-        "assessments_count": 8
+        "proposal_id": 421574,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 404848,
-        "assessments_count": 9
+        "proposal_id": 421580,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405295,
-        "assessments_count": 7
-      }
-    ]
-  },
-  {
-    "challenge_id": 26448,
-    "proposals": [
-      {
-        "proposal_id": 396969,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 397805,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398046,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 398579,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398919,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 399093,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 399497,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399526,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399917,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400473,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400476,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400697,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400698,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400714,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402914,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403012,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403638,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 403824,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404076,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 404492,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 405010,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405369,
-        "assessments_count": 9
-      }
-    ]
-  },
-  {
-    "challenge_id": 26449,
-    "proposals": [
-      {
-        "proposal_id": 396556,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 396756,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397974,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398372,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399109,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399132,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399380,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399545,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399676,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399872,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399945,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400022,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400026,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400140,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400204,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400403,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400716,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400827,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400914,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 403106,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 403530,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404742,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404785,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404921,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 405044,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405158,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405215,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 405362,
-        "assessments_count": 8
-      }
-    ]
-  },
-  {
-    "challenge_id": 26450,
-    "proposals": [
-      {
-        "proposal_id": 397710,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 397767,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 397962,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 397972,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 398095,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 398219,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 398356,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 398868,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398875,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 398912,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 398974,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 398975,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 399250,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 399467,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399695,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400072,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400333,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 400344,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400367,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 400533,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 400597,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400761,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 401884,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 403096,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 403175,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 403244,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 403785,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 403911,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404177,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 404182,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 404784,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 404786,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 404814,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404994,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 405016,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 405029,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 405120,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 405127,
-        "assessments_count": 25
-      },
-      {
-        "proposal_id": 405160,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 405307,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 405311,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 405386,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 405429,
-        "assessments_count": 10
-      }
-    ]
-  },
-  {
-    "challenge_id": 26451,
-    "proposals": [
-      {
-        "proposal_id": 396573,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 397184,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397983,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398403,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398478,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398553,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398633,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398763,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398768,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399042,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 399112,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399241,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399656,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399697,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399788,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399791,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399939,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400027,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400064,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400164,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400280,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400313,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400385,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400791,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 401307,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404194,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404293,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 404879,
-        "assessments_count": 6
-      }
-    ]
-  },
-  {
-    "challenge_id": 26452,
-    "proposals": [
-      {
-        "proposal_id": 396544,
-        "assessments_count": 27
-      },
-      {
-        "proposal_id": 396566,
-        "assessments_count": 32
-      },
-      {
-        "proposal_id": 396702,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 397417,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 397512,
-        "assessments_count": 18
-      },
-      {
-        "proposal_id": 397859,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 398109,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 398215,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398247,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398384,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 398488,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 398671,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 398860,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399177,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399252,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399669,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399728,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399884,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400037,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400110,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400210,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400513,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400528,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400971,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 401005,
-        "assessments_count": 17
-      },
-      {
-        "proposal_id": 401124,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401297,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 402486,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403053,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403307,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 403482,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403485,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404531,
-        "assessments_count": 22
-      },
-      {
-        "proposal_id": 405138,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 405163,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 405366,
-        "assessments_count": 9
-      }
-    ]
-  },
-  {
-    "challenge_id": 26453,
-    "proposals": [
-      {
-        "proposal_id": 397872,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 398964,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 398999,
-        "assessments_count": 24
-      },
-      {
-        "proposal_id": 400096,
-        "assessments_count": 16
-      },
-      {
-        "proposal_id": 400150,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 400153,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 400622,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 400782,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400998,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 403110,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 403745,
-        "assessments_count": 12
-      },
-      {
-        "proposal_id": 405116,
-        "assessments_count": 26
-      }
-    ]
-  },
-  {
-    "challenge_id": 26454,
-    "proposals": [
-      {
-        "proposal_id": 396911,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398076,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398385,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 398557,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 398838,
-        "assessments_count": 37
-      },
-      {
-        "proposal_id": 398840,
-        "assessments_count": 29
-      },
-      {
-        "proposal_id": 398841,
-        "assessments_count": 28
-      },
-      {
-        "proposal_id": 398842,
-        "assessments_count": 27
-      },
-      {
-        "proposal_id": 398843,
-        "assessments_count": 33
-      },
-      {
-        "proposal_id": 398845,
-        "assessments_count": 28
-      },
-      {
-        "proposal_id": 398847,
-        "assessments_count": 25
-      },
-      {
-        "proposal_id": 398850,
-        "assessments_count": 25
-      },
-      {
-        "proposal_id": 398853,
-        "assessments_count": 26
-      },
-      {
-        "proposal_id": 398856,
-        "assessments_count": 26
-      },
-      {
-        "proposal_id": 398857,
-        "assessments_count": 28
-      },
-      {
-        "proposal_id": 398858,
-        "assessments_count": 26
-      },
-      {
-        "proposal_id": 398926,
-        "assessments_count": 13
-      },
-      {
-        "proposal_id": 398927,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398928,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 398980,
-        "assessments_count": 27
-      },
-      {
-        "proposal_id": 398981,
-        "assessments_count": 26
-      },
-      {
-        "proposal_id": 399066,
-        "assessments_count": 20
-      },
-      {
-        "proposal_id": 399179,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 399277,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 399675,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 399741,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 400124,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400567,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 402605,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 402687,
-        "assessments_count": 15
-      },
-      {
-        "proposal_id": 402728,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 402965,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 404484,
-        "assessments_count": 26
-      },
-      {
-        "proposal_id": 405008,
-        "assessments_count": 13
-      }
-    ]
-  },
-  {
-    "challenge_id": 26455,
-    "proposals": [
-      {
-        "proposal_id": 396563,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 396613,
-        "assessments_count": 14
-      },
-      {
-        "proposal_id": 396648,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 396688,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 396732,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 396746,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 396755,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 396765,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 396771,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 396777,
-        "assessments_count": 10
-      },
-      {
-        "proposal_id": 396783,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 396785,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 396833,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 396836,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 396858,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 396965,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 396989,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397002,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 397037,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397157,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 397177,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 397351,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397753,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 397908,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398169,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398518,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 398526,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398569,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 398635,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 398985,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399142,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399482,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399693,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 399737,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399771,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 399772,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399795,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 399801,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 399965,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400085,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400101,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400211,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 400408,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400628,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400703,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400777,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 400779,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 400929,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 400934,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401176,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401296,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 401645,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 401736,
-        "assessments_count": 6
-      },
-      {
-        "proposal_id": 402091,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 402357,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 402384,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 402519,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 402560,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 402823,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 402885,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403167,
-        "assessments_count": 9
-      },
-      {
-        "proposal_id": 403249,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403260,
-        "assessments_count": 5
-      },
-      {
-        "proposal_id": 403380,
-        "assessments_count": 11
-      },
-      {
-        "proposal_id": 403650,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 403691,
-        "assessments_count": 7
-      },
-      {
-        "proposal_id": 404216,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404330,
-        "assessments_count": 8
-      },
-      {
-        "proposal_id": 404987,
-        "assessments_count": 6
+        "proposal_id": 421637,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405079,
-        "assessments_count": 8
+        "proposal_id": 422000,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405144,
-        "assessments_count": 6
+        "proposal_id": 422031,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405266,
-        "assessments_count": 8
+        "proposal_id": 422079,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 405384,
-        "assessments_count": 5
+        "proposal_id": 422720,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405419,
-        "assessments_count": 8
+        "proposal_id": 422843,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405465,
-        "assessments_count": 7
+        "proposal_id": 423094,
+        "assessments_count": 0
       },
       {
-        "proposal_id": 405488,
-        "assessments_count": 15
+        "proposal_id": 423151,
+        "assessments_count": 1
       },
       {
-        "proposal_id": 405489,
-        "assessments_count": 8
+        "proposal_id": 423166,
+        "assessments_count": 0
       }
     ]
   }
