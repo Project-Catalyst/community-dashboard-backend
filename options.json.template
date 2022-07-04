@@ -1,6 +1,7 @@
 {
   "fund": "f9",
   "outfile_ca": "snapshots/ca-backend_snapshot.json",
+  "outfile_vca": "snapshots/vca-backend_snapshot.json",
   "github_access_token": "",
   "github_dashboard_backend_repo": "https://github.com/Project-Catalyst/community-dashboard-backend",
   "ideascale_api_token": "",
