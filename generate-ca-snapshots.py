@@ -5,16 +5,28 @@ important! :
 '''
 
 import argparse
+from datetime import datetime
 import json
 import pandas as pd
+import pytz
 import requests
 from urllib.request import urlopen
 from github import Github
+
+TIMEZONE = 'Europe/Rome'
+IS_DST = True
 
 # data paths
 SCRIPT_URL = 'https://github.com/Project-Catalyst/community-dashboard-backend/blob/master/generate-ca-snapshots.py'
 TEMPLATE_FILE_PATH = 'https://raw.githubusercontent.com/Project-Catalyst/feedback-challenge-tool-backend/master/data/{}/proposals.json'
 
+
+def getDateStamp():
+    local = pytz.timezone(TIMEZONE)
+    naive = datetime.now()
+    local_dt = local.localize(naive, is_dst=IS_DST)
+    utc_dt = local_dt.astimezone(pytz.utc)
+    return utc_dt.isoformat() #.strftime("%Y/%m/%d, %H:%ML%S")
 
 '''
 IDEASCALE API METHODS
@@ -134,6 +146,7 @@ def main():
         count = formatAssessmentsCount(api_resp)
 
         json_data = generateJson(data, count)
+        json_data.append({'datestamp': getDateStamp()})
 
         # push GitHub update
         try:
