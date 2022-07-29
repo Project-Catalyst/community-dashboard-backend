@@ -1,7 +1,7 @@
 # added by user
 _*.ipynb
 _pyscripts_ongoing-backends/
-
+*.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

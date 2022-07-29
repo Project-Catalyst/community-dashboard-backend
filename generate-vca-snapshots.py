@@ -59,8 +59,6 @@ def formatReviewsCount(json_loads):
 
 def getTemplateData():
     # read most recent ca-data from dashboard 
-    # with open(CA_TEMPLATE_DATA_PATH, 'r') as f:
-    #     ca_data = json.load(f)
     response = urlopen(CA_TEMPLATE_DATA_PATH)
     ca_data = json.loads(response.read())
 
